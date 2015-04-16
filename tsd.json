@@ -1,0 +1,21 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "react/react.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "flux/flux.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "node/node.d.ts": {
+      "commit": "61d066fef5a1ac9e2389b51b9cf88746b7bbfde9"
+    },
+    "moment/moment.d.ts": {
+      "commit": "68114f9ff37de0f92c94126b6e0164e026a1737a"
+    }
+  }
+}
